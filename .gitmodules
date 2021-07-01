@@ -1,3 +1,6 @@
 [submodule "books-api"]
 	path = books-api
 	url = https://github.com/rileydem/google-books-api
+[submodule "morse-code-translator"]
+	path = morse-code-translator
+	url = https://github.com/rileydem/morse-code-translator
